@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Template Post"
+title: "Your Vibe Attracts Your Tribe"
 author: "Vasti Tait"
-categories: template
+categories: posts 
 tags: [sample]
-image: cuba-2.jpg
+image: Friends.jpg
 ---
 
 # Introduction

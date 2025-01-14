@@ -2,7 +2,7 @@
 layout: post
 title: "Better Together"
 author: "Vasti Tait"
-categories: articles
+categories: posts
 tags: [sample]
 image: Marriage.jpg
 ---
