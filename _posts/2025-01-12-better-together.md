@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "The Queen Within"
+title: "Better Together"
 author: "Vasti Tait"
-categories: posts
-tags: [mom blog]
-image: profile.jpg
+categories: articles
+tags: [sample]
+image: Marriage.jpg
 ---
 
 # Introduction

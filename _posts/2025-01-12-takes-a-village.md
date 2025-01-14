@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "The Queen Within"
+title: "It takes a village to raise a kid"
 author: "Vasti Tait"
-categories: posts
-tags: [mom blog]
-image: profile.jpg
+categories: template
+tags: [sample]
+image: Kids.jpg
 ---
 
 # Introduction

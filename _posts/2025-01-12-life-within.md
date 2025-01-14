@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "The Queen Within"
+title: "Life Within"
 author: "Vasti Tait"
 categories: posts
-tags: [mom blog]
-image: profile.jpg
+tags: [sample]
+image: none.jpg
 ---
 
 # Introduction

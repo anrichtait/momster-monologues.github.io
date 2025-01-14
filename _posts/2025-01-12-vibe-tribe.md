@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "The Queen Within"
+title: "Template Post"
 author: "Vasti Tait"
-categories: posts
-tags: [mom blog]
-image: profile.jpg
+categories: template
+tags: [sample]
+image: cuba-2.jpg
 ---
 
 # Introduction
