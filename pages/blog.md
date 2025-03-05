@@ -4,4 +4,5 @@ title: Blog
 permalink: /blog
 ---
 
-This page is still under development please check back soon!
+![first](/assets/img/city-1.png)
+## [Blog Title](www.google.com)
